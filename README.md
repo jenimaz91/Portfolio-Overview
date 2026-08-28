@@ -9,7 +9,7 @@ This portfolio showcases my strongest projects, including my deployed Streamlit 
 ## 🚀 Featured Project: Battery Cycle Life Prediction (Streamlit App)
 
 **Live App:** https://lithium-ion-battery-cycle-life-prediction.streamlit.app/  
-**Repo:** https://github.com/jenimaz91/Battery-Cycle-Life-Prediction-Streamlit-App
+**Repo:** https://github.com/jenimaz91/DSML-Final-Project-Lithium-Ion-Battery-Cycle-Life-prediction-Streamlit_app
 
 Predicting the total cycle life of lithium‑ion batteries using early‑life degradation signals and machine learning.
 
