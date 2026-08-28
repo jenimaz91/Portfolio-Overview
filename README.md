@@ -80,7 +80,7 @@ Virtual environments
 
 - **Email:** jenimaz91@gmail.com  
 - **LinkedIn:** https://linkedin.com/in/jenifar-mazumder-638044ab  
-- **Location:** Berlin, Germany
+
 
 ---
 
