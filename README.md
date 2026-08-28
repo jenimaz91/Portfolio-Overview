@@ -37,61 +37,41 @@ Exploratory data analysis and SQL queries on a real dataset.
 
 ## 🛠️ Tech Stack
 
-- Python
-
-Pandas
-
-NumPy
-
-Scikit‑learn
-
-Matplotlib / Seaborn
-
-Jupyter Notebook
+Python
+- Pandas
+- NumPy
+- Scikit‑learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
 
 🤖 Machine Learning
-Regression models
-
-Classification models
-
-Feature engineering
-
-Model evaluation
+- Regression models
+- Classification models
+- Feature engineering
+- Model evaluation
 
 🔤 NLP
-Text preprocessing
-
-Tokenization
-
-TF‑IDF
-
-Vectorization
+- Text preprocessing
+- Tokenization
+- TF‑IDF
+- Vectorization
 
 🖼️ Deep Learning
-TensorFlow
-
-Keras
-
-CNNs
-
-Transfer learning
+- TensorFlow
+- Keras
+- CNNs
+- Transfer learning
 
 🗄️ Data & Databases
-SQL
-
-Joins
-
-Data cleaning
-
-EDA
+- SQL
+- Tableau
+- DB Browser
+- EDA
 
 🌐 Deployment & Tools
 Streamlit
-
 Git
-
 GitHub
-
 Virtual environments  
 
 ---
