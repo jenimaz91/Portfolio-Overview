@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jenifar Mazumder  
 ### Data Scientist | Machine Learning | Streamlit Apps | NLP | Deep Learning
 
-I’m a data scientist based in Berlin with experience in machine learning, NLP, SQL, and building end‑to‑end data applications.  
+I’m a data scientist based in Erfurt with experience in machine learning, NLP, SQL, and building end‑to‑end data applications.  
 This portfolio showcases my strongest projects, including my deployed Streamlit app for battery cycle‑life prediction.
 
 ---
